@@ -4,9 +4,9 @@
 
 ### Table of contents
 
-* [Description] (#description)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
+* [Description](#description)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ### Description
 
